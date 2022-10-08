@@ -124,9 +124,11 @@ packages:
   flutter_zoom_sdk:
     dependency: "direct main"
     description:
-      name: flutter_zoom_sdk
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "7e01f4210c5259ef50457d1fefc2e65b5e860201"
+      url: "https://github.com/hatemragab/flutter_zoom_sdk.git"
+    source: git
     version: "1.1.0+4"
   fwfh_text_style:
     dependency: transitive
