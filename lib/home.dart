@@ -24,8 +24,8 @@ class _HomeScreenState extends State<HomeScreen> {
     _idController = TextEditingController();
     _passwordController = TextEditingController();
     if (kDebugMode) {
-      _idController.text = "77248818872";
-      _passwordController.text = "mLm15T";
+      _idController.text = "76510999443";
+      _passwordController.text = "730JCx";
     }
 
     super.initState();

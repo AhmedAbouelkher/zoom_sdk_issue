@@ -1,5 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ahmed.zoom_sdk_issue">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
    <application
         android:label="zoom_sdk_issue"
         android:name="${applicationName}"
